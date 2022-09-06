@@ -1,8 +1,8 @@
 ﻿public class Program
 {
+
     static void Main(string[] args)
     {
-
         string nameShop = InputName();
         string id = InputID();
         string nameManagerShop = OwnerName();
